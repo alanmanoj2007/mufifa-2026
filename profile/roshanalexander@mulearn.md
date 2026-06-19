@@ -1,4 +1,4 @@
-# Roshan Alexander (Computer Science Student, AI Enthusiast & Data science and AI Student)
+# Roshan Alexander (Computer Science & Data Science and AI Student / AI Enthusiast)
 ### Squad Domain: Coder | FIFA Nation: Argentina
 
 ### About Me
@@ -9,6 +9,7 @@
 
 ## ⚽ FIFA World Cup Corner
 
+Football has always been more than just a sport to me. It's a game that brings people together through passion, teamwork, and unforgettable moments. As a long-time supporter of Argentina and an admirer of players like Lionel Messi, I enjoy following the stories, rivalries, and emotions that make the FIFA World Cup special. Through μFIFA, I look forward to experiencing that same competitive spirit while learning, collaborating, and growing alongside talented people from different domains.
 
 #### My Nation & Why:
 
@@ -18,6 +19,7 @@
 #### Supporting Team in the Real World Cup 2026:
 
 - Argentina, I have supported them for years and would love to see them perform strongly again in 2026.
+- that is same as my μFIFA Nation.
 
 #### All-Time Favourite Player:
 
@@ -34,6 +36,7 @@
 
 - The 2022 FIFA World Cup Final between Argentina and France.
 - It was one of the most exciting football matches I have ever watched. The drama, the comebacks, and Messi finally winning the World Cup made it unforgettable.
+- I was watching this hitorical moment with my family at home.
 
 #### 2026 Predictions:
 
@@ -54,6 +57,7 @@
 
 ## 🏅 Portfolio Highlights
 
+> I have worked on personal and academic projects involving Flutter, Python, artificial intelligence, and location-based technologies, publishing my work on GitHub to document my learning journey and project development process. Through these projects, I have gained experience with Git workflows, collaborative development practices, and modern software engineering tools. I am interested in contributing to community-driven open-source initiatives, building reusable software solutions, and expanding my experience through meaningful collaboration during μFIFA.
 
 #### History of Open Source and Collaborative Contributions:
 
@@ -69,8 +73,7 @@
 
 #### Domain Profiles:
 
-- 💻 **Coder**: [GitHub: roshanalexander22](https://github.com/roshanalexander22)
-- 📋 **Strategist**: [LinkedIn: Roshan Alexander](www.linkedin.com/in/roshan-alexander-thu2122005)
+- 💻 **Coder**: [roshanalexander22](https://github.com/roshanalexander22)
 
 #### Tools, Workflows & Automations:
 
@@ -103,7 +106,7 @@
 - Leadership roles in NSS GECI
 - I'm also a class representative in Computer Science GECI
 - Continue developing leadership skills through teamwork, project collaboration, and community participation.
-
+  
 #### Networking:
 
 - Interested in connecting with developers, designers, AI enthusiasts, and innovators through μLearn and μFIFA.
@@ -112,9 +115,9 @@
 
 #### Career Plan:
 
-- Immediate: Build stronger software development skills, contribute to open source, complete impactful projects, and gain practical experience in AI and application development.
-- Long-term: Become a skilled software engineer specializing in AI-powered applications and contribute to innovative technology products that solve real-world problems.
-
+- **Immediate:** Build stronger software development skills, contribute to open source, complete impactful projects, and gain practical experience in AI and application development.
+- **Long-term:** Become a skilled software engineer specializing in AI-powered applications and contribute to innovative technology products that solve real-world problems.
+ 
 ---
 
 #### Profile Card:
